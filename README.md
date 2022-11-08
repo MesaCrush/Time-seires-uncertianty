@@ -1,2 +1,2 @@
 # Time-seires-uncertianty
-I am sharing origin data, code and my report here. Welcome to visit!
+I am sharing original data, code and my report here. Welcome to visit!
